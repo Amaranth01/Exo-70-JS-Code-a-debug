@@ -7,7 +7,7 @@ while(boucle < 5) {
 
 document.getElementById('main').innerHTML = "ttttttttttttttttt";
 
-if(main === 1) {
+if(text === '1') {
 alert('connue');
 }
 else {
